@@ -1,6 +1,8 @@
 Selected Parameters
 ===================
 
+Here is some further explanation for those not easy-to-understand parameters.
+
 MIN_HEIGHT
 ----------
 
